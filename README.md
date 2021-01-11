@@ -102,7 +102,7 @@ window size.
 CasTTY supports UTF-8 input.
 
 CasTTY outputs in
-[asciicast v1](https://github.com/asciinema/asciinema/blob/master/doc/asciicast-v1.md)
+[asciicast v2](https://github.com/asciinema/asciinema/blob/master/doc/asciicast-v2.md)
 format. Its output files should be compatible with the asciinema player
 (though that player does not support audio).
 
